@@ -15,15 +15,10 @@ El microservicio expone dos rutas:
 
 ### GET /
 Devuelve un mensaje indicando que el servicio está funcionando:
-
-```bash
-{"message": "Microservicio de usuarios activo"}
-```
+<img width="740" height="272" alt="Image" src="https://github.com/user-attachments/assets/17e8c347-5037-4f1d-8d1c-e3c3097fe0e4" />
 ### GET /usuarios
 Se conecta al contenedor MySQL, consulta los nombres almacenados en la tabla usuarios y devuelve la lista en formato JSON:
-```bash
-["Juan", "Ana", "Carlos"]
-```
+<img width="1110" height="237" alt="Image" src="https://github.com/user-attachments/assets/c6286b73-d79c-489b-8a77-afecc12bf704" />
 ## Cómo ejecutar el proyecto
 1. Clonar el repositorio
 2. Construir y ejecutar los contenedores
