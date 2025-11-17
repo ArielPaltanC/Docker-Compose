@@ -67,3 +67,6 @@ Ver logs de un servicio:
 ```bash
 docker logs practica-usuarios-1
 ```
+
+Todos los contenedores que se usan se pueden visualizar en docker desktop, para verificar si estan funcionando correctamente de la sigueitne manera:
+<img width="2553" height="977" alt="Image" src="https://github.com/user-attachments/assets/3b93705a-5666-4846-a146-e7babd39d159" />
